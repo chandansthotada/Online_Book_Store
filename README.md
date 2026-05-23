@@ -3,7 +3,7 @@
 - **Youtube VIDEO** for step by step Local Setup Guide : https://youtu.be/mLFPodZO8Iw
 - **Youtube VIDEO** for local setup of tender management project: https://www.youtube.com/watch?v=7CE3aY4e644
 <!--Check out the Live website demo: [https://theonlinebookstore.herokuapp.com](https://theonlinebookstore.herokuapp.com)-->
-- User Login Credentials: (shashi/shashi)
+- User Login Credentials: chandan/chandan
 - Admin Login Credentials: (Admin/Admin)
 <hr>
 
@@ -101,7 +101,7 @@ commit;
 
 Step 0: Open Eclipse Enterprise Edition. [Install, if not already installed.]
 
-Step 1: Click On File > Import > Git > Projects From Git > Clone Uri > Paste The Repository Url as: ```https://github.com/shashirajraja/onlinebookstore.git```> Select master Branch > Next > Next > Finish.
+Step 1: Click On File > Import > Git > Projects From Git > Clone Uri > Paste The Repository Url as: ```https://github.com/chandansthotada/Online_Book_Store```> Select master Branch > Next > Next > Finish.
 
 Step 2. a: Go inside ```src/main/resources > application.properties``` and update the value of database details as per your usage, like db.driver, db.host, db.username and db.password according to your installed mysql/postgresql admin user credentials.
 
